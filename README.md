@@ -4,7 +4,7 @@
 
 ### 💻 Computer Engineering Student | Python & Django Developer
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Şahin%20Avcı-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Şahin%20Avcı-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%C5%9Fahin-avc%C4%B1-1bb3163a8/)
 [![GitHub](https://img.shields.io/badge/GitHub-SahinAvc-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SahinAvc)
 
 </div>
@@ -160,7 +160,7 @@ A Django-based e-commerce project focused on backend development, database manag
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%C5%9Fahin-avc%C4%B1-1bb3163a8/)
 
 [![GitHub](https://img.shields.io/badge/GitHub-SahinAvc-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SahinAvc)
 
